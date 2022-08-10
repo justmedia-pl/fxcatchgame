@@ -1,0 +1,4 @@
+.apple{
+    -fx-background-color: red;
+    -fx-background-image:url("apple.png");
+}
